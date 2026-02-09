@@ -43,8 +43,6 @@ Open, *OpenFlights* datasets covering:
 - Aircraft / equipment  
 - Countries  
 
-> Data was treated as **messy, real‑world operational data**, not pre‑cleaned analytics data.
-
 ---
 
 ## End‑to‑End Pipeline
