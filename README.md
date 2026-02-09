@@ -157,8 +157,6 @@ fact_routes.csv
 - Files placed in `secure_file_priv`  
 - Avoided MySQL Workbench import wizard  
 
-> **Why:** reproducibility, control, and production realism.
-
 ### Real‑World Handling
 
 - Empty strings converted using `NULLIF()`  
