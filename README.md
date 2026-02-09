@@ -31,22 +31,6 @@ To **identify and quantify hidden systemic fragility** in the global air transpo
 - Airline reliance on primary operational hubs  
 - Fleet concentration around a single aircraft family  
 
-> **Outcome:** a decision‑ready **risk narrative**, not a theoretical model.
-
----
-
-##  What This Project Is *Not*
-
-This project intentionally avoids:
-
-- Demand forecasting  
-- Delay prediction  
-- Revenue or profitability modelling  
-- Passenger flow simulation  
-- Machine learning without clear business justification  
-
-**Design principle:** explainability, credibility, and interview safety.
-
 ---
 
 ## Data Sources
